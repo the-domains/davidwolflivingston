@@ -1,6 +1,7 @@
 name: davidwolflivingston
 favicon: null
 layout_spectrum: 0.8
+typography_spectrum: 0.94595
 cta:
   domain: null
   bucket: null
@@ -15,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#ffffff'
-    - '#ffffff'
-    - '#ffffff'
-    - '#ffffff'
-  brandStrength: 0.25
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
